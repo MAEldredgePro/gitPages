@@ -1,7 +1,7 @@
-1. Create github Account.
-2. Create a new public repository.
-3. Create .gitignore file (ignore all *.blah files).
-4. Create test.blah file in new repository (from step 2.).
+x 1. Create github Account.
+x 2. Create a new public repository.
+x 3. Create .gitignore file (ignore all *.blah files).
+x 4. Create test.blah file in new repository (from step 2.).
 5. Create valid index.html file and add to repository. push up html file.
 6. Create valid css file and add to repository. push up html css file.
 7. Create and push up a develop branch.
