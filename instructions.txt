@@ -4,9 +4,9 @@ x 3. Create .gitignore file (ignore all *.blah files).
 x 4. Create test.blah file in new repository (from step 2.).
 x 5. Create valid index.html file and add to repository. push up html file.
 x 6. Create valid css file and add to repository. push up html css file.
-7. Create and push up a develop branch.
-8. Make some changes to html/css files in develop branch.
-9. Merge develop branch back to master branch. Resolve any merge conflicts.
+x 7. Create and push up a develop branch.
+x 8. Make some changes to html/css files in develop branch.
+x 9. Merge develop branch back to master branch. Resolve any merge conflicts.
 10. Create feature/demo branch.
 11. Make changes to html/css files in feature/demo branch.
 12. Push up feature/demo branch.
