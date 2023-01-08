@@ -1,16 +1,16 @@
-x 1. Create github Account.
-x 2. Create a new public repository.
-x 3. Create .gitignore file (ignore all *.blah files).
-x 4. Create test.blah file in new repository (from step 2.).
-x 5. Create valid index.html file and add to repository. push up html file.
-x 6. Create valid css file and add to repository. push up html css file.
-x 7. Create and push up a develop branch.
-x 8. Make some changes to html/css files in develop branch.
-x 9. Merge develop branch back to master branch. Resolve any merge conflicts.
+x  1. Create github Account.
+x  2. Create a new public repository.
+x  3. Create .gitignore file (ignore all *.blah files).
+x  4. Create test.blah file in new repository (from step 2.).
+x  5. Create valid index.html file and add to repository. push up html file.
+x  6. Create valid css file and add to repository. push up html css file.
+x  7. Create and push up a develop branch.
+x  8. Make some changes to html/css files in develop branch.
+x  9. Merge develop branch back to master branch. Resolve any merge conflicts.
 x 10. Create feature/demo branch.
 x 11. Make changes to html/css files in feature/demo branch.
 x 12. Push up feature/demo branch.
 x 13. Host feature/demo branch on github pages. repository must be public.
 x 14. Merge feature/demo branch back to develop branch. Resolve any merge conflicts.
-15. Merge develop branch back to master branch. Resolve any merge conflicts.
+x 15. Merge develop branch back to master branch. Resolve any merge conflicts.
 16. Screenshot commits and branches and post link to github pages.
